@@ -1,0 +1,7 @@
+{
+  "name": "reciclicq-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
